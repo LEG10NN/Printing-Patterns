@@ -10,9 +10,7 @@ int main(){
             cout<<i;
             cout<<" ";
         }
-        cout<<endl;
-        
+        cout<<endl;    
     }
-    
     return 0;
 }
